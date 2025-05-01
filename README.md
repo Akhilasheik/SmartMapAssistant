@@ -45,3 +45,5 @@ The assistant provides:
 - **Real-time traffic integration**: Incorporate live traffic data to calculate the most efficient routes based on current conditions.
 - **User interface**: Add an interface where users can interact with the assistant visually on a map.
 
+## DOC
+- https://docs.google.com/document/d/1kYpXcmuYBXFgrBJfianLh-fseVhE3udSHXEFsxWCFfM/edit?usp=sharing
