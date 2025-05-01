@@ -9,7 +9,7 @@ While using Google Maps, I realized that sometimes there are multiple options fo
 - **Cab/Taxi:** You might want to avoid walking but prefer to save time or money.
 
 ### A real-world example:
-One day, I had to travel from **Marathahalli Flyover** to **Attipelli NMR Convention Hall**. I saw multiple routes:
+One day, I had to travel from **Marathahalli Flyover** to **Hosur NMR Convention Hall**. I saw multiple routes:
 - **Route 1**: Bus from Marathahalli to Silk Board, followed by a 3-5 minutes walking, and then a bus to Attipelli.
 - **Route 2**: Bus from Marathahalli to Kyaarpuram, then directly to Attipelli, no walking involved.
 - **Route 3**: Another bus + cab route, but my sister didn’t want to walk.
